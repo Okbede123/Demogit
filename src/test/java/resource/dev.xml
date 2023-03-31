@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel = "false" name = "Facebook">
+    <test name = "Run On Chrome">
+        <parameter name = "browser" value = "chrome"/>
+        <classes>
+            <class name = "teststatic.ClassA" />
+            <class name = "teststatic.ClassB" />
+        </classes>
+    </test>
+
+</suite>
