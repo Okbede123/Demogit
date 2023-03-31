@@ -3,10 +3,9 @@ public class Test2 implements TestInterFace {
 
     @Override
     public void Tc_01() {
-        System.out.println("test nhanh pc test");
+        System.out.println("test nhanh laptop");
 
-
-        System.out.println("dong 2 pc");
+        System.out.println("dong 2 laptop");
     }
 
     @Override
@@ -16,6 +15,6 @@ public class Test2 implements TestInterFace {
 
     @Override
     public void testInterface2() {
-        System.out.println("dong 2 nhanh pc");
+        System.out.println("dong 2 nhanh laptop 2");
     }
 }
