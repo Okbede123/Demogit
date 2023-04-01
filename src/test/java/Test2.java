@@ -17,13 +17,8 @@ public class Test2 implements TestInterFace {
 
     @Override
     public void testInterface2() {
-        System.out.println("dong 2 nhanh laptop 2");
-        System.out.println("9h38");
-        System.out.println("them 1 dong nua");
-        System.out.println("dong nhanh pc");
-        System.out.println("9h36 nhe");
-        System.out.println("them dong nua");
-        System.out.println(" dong nua pc");
+        System.out.println("dong 2 nhanh pc");
+
 
     }
 }
