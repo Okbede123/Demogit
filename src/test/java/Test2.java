@@ -8,11 +8,12 @@ public class Test2 implements TestInterFace {
 
     @Override
     public int Tc_02() {
-        return 9;
+        return 9+10;
     }
 
     @Override
     public void testInterface2() {
-        System.out.println("dong 2 nhanh pc_1_9");
+        System.out.println("dong 2 nhanh master lan 10");
+
     }
 }
