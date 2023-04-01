@@ -12,7 +12,7 @@ public class Test2 implements TestInterFace {
 
     @Override
     public int Tc_02() {
-        return 52342345;
+        return 52;
     }
 
     @Override
