@@ -6,5 +6,5 @@ public interface TestInterFace extends TestInterFace2,TestInterFace3 {
 
       void Tc_01();
 
-    long Tc_02();
+    int Tc_02();
 }
