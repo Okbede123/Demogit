@@ -3,7 +3,7 @@ public class Test2 implements TestInterFace {
 
     @Override
     public void Tc_01() {
-        System.out.println("test nhanh laptop master 11h5");
+        System.out.println("1/4 9h36");
 
         System.out.println("dong 2 laptop");
     }
@@ -16,5 +16,6 @@ public class Test2 implements TestInterFace {
     @Override
     public void testInterface2() {
         System.out.println("dong 2 nhanh laptop 2");
+        System.out.println("9h36 nhe");
     }
 }
