@@ -1,6 +1,7 @@
 public class Classthu2DemoGit {
 
     public static void main(String[] args) {
-        System.out.println("test  nhanh pc 1.8");
+        System.out.println("test  nhanh pc 1.7");
+        System.out.println("test  nhanh lan 8");
     }
 }
