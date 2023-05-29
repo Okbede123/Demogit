@@ -64,6 +64,6 @@ public class TestCa2doituongapi {
     public void test(TestGanDoiTuongAPI2 testGanDoiTuongAPI2){
         TestGanDoiTuongAPI3 testGanDoiTuongAPI3 = new TestGanDoiTuongAPI3();
         testGanDoiTuongAPI3.getTestGanDoiTuongAPI2();
-        testGanDoiTuongAPI2.setTestGanDoiTuongAPI();
+//        testGanDoiTuongAPI2.setTestGanDoiTuongAPI();
     }
 }
