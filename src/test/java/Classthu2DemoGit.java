@@ -7,4 +7,8 @@ public class Classthu2DemoGit {
         System.out.println("29/05/ 22.3 lap");
         System.out.println("29/05/ 22.4 lap");
     }
+
+    public void tc1(){
+        System.out.println("pc");
+    }
 }
