@@ -17,11 +17,16 @@ public class ClassA {
 
     @BeforeClass
     public void beforeClass(){
+        System.out.println("beforeclass a");
+    }
 
+    @Test(groups = {"gr1", "gr2"})
+    public void TC_01(){
+        System.out.println("tc1 a");
     }
 
     @Test
-    public void TC_01(){
-
+    public void TC_02(){
+        System.out.println("tc2 b");
     }
 }

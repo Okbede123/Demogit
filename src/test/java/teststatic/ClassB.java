@@ -15,17 +15,17 @@ public class ClassB {
         get();
     }
 
-    @Test
+    @Test(groups = {"gr1"})
     public void TC_01(){
         String local = ClassA.getTaiKhoan();
 
-        ClassA.setTaiKhoan("check");
+        ClassA.setTaiKhoan("tc 1");
 
         System.out.println(ClassA.getTaiKhoan());
 
     }
 
     public static void get(){
-        System.out.println("okbe");
+        System.out.println("get 1");
     }
 }
